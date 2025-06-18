@@ -1,0 +1,2 @@
+# Add pakages in requirements.txt
+fastapi[standard]==0.113.0
